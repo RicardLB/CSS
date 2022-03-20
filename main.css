@@ -1,0 +1,532 @@
+body{
+    height: 2000px;
+}
+
+
+h2, h1, h3, h4, h5, h6, a{
+    font-family: Arial;
+}
+.color_azul_bajito{
+    color: #3636FE;
+}
+.color_gris{
+    color: gray;
+}
+div{
+    background: rgb(255, 255, 255);
+}
+
+
+.caja1{
+    font-size: 1cm;
+    width: 50px;
+    position: relative;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+}
+.caja2{
+    font-size: 0.7cm;
+    width: 50px;
+    position: relative;
+    top:-40px;
+    right:0px;
+    bottom:0;
+    left: 650px;
+}
+.caja3{
+    font-size: 0.7cm;
+    width: 50px;
+    position: relative;
+    top:-70px;
+    right:0;
+    bottom:0;
+    left:800px;
+}
+.caja4{
+    font-size: 0.7cm;
+    width: 50px;
+    height: 200px;
+    position: relative;
+    top:-100px;
+    right:0;
+    bottom:0;
+    left:950px;
+}
+
+.caja5{
+    font-size: 0.7cm;
+    width: 50px;
+    position: relative;
+    top: -300px;
+    right: 0px;
+    bottom: 0px;
+    left: 1050px;
+}
+
+.caja6{
+    font-size: 0.7cm;
+    width: 140px;
+    position: relative;
+    top:-330px;
+    right:0;
+    bottom:0;
+    left:1200px;
+}
+
+.subtitulo{
+    color:rgb(4, 20, 94);
+    width: 400px;
+    position: relative;
+    top:-200px;
+    right:0;
+    bottom:0;
+    left:0px;
+}
+
+.letras{
+    color:rgb(111, 111, 114);
+    width: 400px;
+    position: relative;
+    top:-200px;
+    right:0;
+    bottom:0;
+    left:0px;
+}
+
+.sub-sub-sub-indices{
+    color:rgb(12, 12, 112);
+    width: 400px;
+    position: relative;
+    top:-200px;
+    right:0;
+    bottom:0;
+    left:0px;
+}
+
+.sub-sub-sub-indices1{
+    color:rgb(109, 109, 110);
+    width: 400px;
+    position: relative;
+    top:-200px;
+    right:0;
+    bottom:0;
+    left:100px;
+}
+.sub-sub-sub-indices2{
+    color:rgb(109, 109, 110);
+    width: 400px;
+    position: relative;
+    top:-240px;
+    right:0;
+    bottom:0;
+    left:200px;
+}
+
+.sub-sub-sub-indices3{
+    color:rgb(109, 109, 110);
+    width: 400px;
+    position: relative;
+    top:-278px;
+    right:0;
+    bottom:0;
+    left:300px;
+}
+
+.submit{
+    background-color:rgb(47, 47, 223);
+    font-size: x-large;
+    padding: 10px;
+    width: 74px;
+    height: 25px;
+    padding: 1px;
+    position: relative;
+    top:-310px;
+    right:0;
+    bottom:0;
+    left:450px;
+}
+
+.datos1{
+    color:rgb(47, 47, 223);
+    width: 300px;
+    position: relative;
+    top:-320px;
+    right:0;
+    bottom:0;
+    left:70px;
+}
+.datos2{
+    color:rgb(47, 47, 223);
+    width: 200px;
+    position: relative;
+    top:-360px;
+    right:0;
+    bottom:0;
+    left:200px;
+}
+.datos3{
+    color:rgb(47, 47, 223);
+    width: 100px;
+    position: relative;
+    top:-400px;
+    right:0;
+    bottom:0;
+    left:320px;
+}
+.imagen1{
+    background: #86868d;
+    padding: 10px;
+    width: 750px;
+    position: relative;
+    top: -750px;
+    right:0 ;
+    bottom: 0;
+    left:550px ;
+}
+.aztraseneca{
+    position: relative;
+    width: 0px;
+    top: -670px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.sinovac{
+    position: relative;
+    width: 0px;
+    top: -800px;
+    right: 0;
+    bottom: 0;
+    left: 300px;
+}
+.pfizer{
+    position: relative;
+    width: 0px;
+    top: -900px;
+    right: 0;
+    bottom: 0;
+    left: 600px;
+}
+.moderna{
+    position: relative;
+    width: 0px;
+    top: -1000px;
+    right: 0;
+    bottom: 0;
+    left: 1000px;
+}
+.pregunta{
+    color:#3636FE;
+    font-family: Arial;
+    position: relative;
+    width: 400px;
+    top: -1000px;
+}
+.respuesta{
+    color:rgb(111, 111, 114);
+    font-family: Arial;
+    position: relative;
+    width: 400px;
+    top: -1000px;
+}
+.Tbeneficio1{
+   color: #3636FE;
+   position: relative;
+   width: 300px;
+   top: -1000px;
+   left: 0;
+}
+.Tbeneficio2{
+    color: #3636FE;
+    position: relative;
+    width: 300px;
+    top: -1190px;
+    left: 300px;
+}
+.Tbeneficio3{
+    color: #3636FE;
+    position: relative;
+    width: 300px;
+    top: -1330px;
+    left: 600px;
+}
+.Tbeneficio4{
+    color: #3636FE;
+    position: relative;
+    width: 300px;
+    top: -1530px;
+    left: 900px;
+}
+.Rbeneficios1{
+    color: #86868d;
+    position: relative;
+    width: 300px;
+    top: -1000px;
+    left: 0;
+}
+.Rbeneficios2{
+    color: #86868d;
+    position: relative;
+    width: 290px;
+    top: -1160px;
+    left: 300px;
+}
+.Rbeneficios3{
+    color: #86868d;
+    position: relative;
+    width: 290px;
+    top: -1330px;
+    left: 600px;
+}
+.Rbeneficios4{
+    color: #86868d;
+    position: relative;
+    width: 300px;
+    top: -1530px;
+    left: 900px;
+}
+.subtitulo1{
+    color: #3636FE;
+    position: relative;
+    width: 500px;
+    top: -1450px;
+    left: 800px;
+}
+.textosubtitulo1{
+    color: #86868d;
+    position: relative;
+    width: 500px;
+    top: -1450px;
+    left: 800px;
+}
+.chica{
+    background: #86868d;
+    padding: 10px;
+    width: 700px;
+    position: relative;
+    top: -1600px;
+}
+.indice1{
+    color: #3636FE;
+    position: relative;
+    width: 500px;
+    top: -1950px;
+    left: 800px;
+}
+.indice2{
+    color: #3636FE;
+    width: 500px;
+    position: relative;
+    top: -1950px;
+    left: 800px;
+}
+.indice3{
+    color: #3636FE;
+    width: 500px;
+    position: relative;
+    top: -1950px;
+    left: 800px;
+}
+.indice4{
+    color: #3636FE;
+    width: 500px;
+    position: relative;
+    top: -1950px;
+    left: 800px;
+}
+.indice5{
+    color: #3636FE;
+    width: 500px;
+    position: relative;
+    top: -1950px;
+    left: 800px;
+}
+.Contactos{
+    color: #3636FE;
+    position: relative;
+    width: 500px;
+    top: -1800px;
+}
+.ContactosTexto{
+    color: #86868d;
+    position: relative;
+    width: 500px;
+    top: -1800px;
+}
+.llamada{
+    position: relative;
+    width: 0px;
+    top: -1800px;
+}
+.texto{
+    position: relative;
+    width: 500px;
+    top: -1855px;
+    left: 300px;
+}
+.videollamada{
+    position: relative;
+    top: -1800px;
+}
+.mensaje{
+    position: relative;
+    width: 0px;
+    top: -1880px;
+    left: 270px;
+}
+.numero1{
+    position: relative;
+    color: #86868d;
+    top: -2000px;
+    left: 50px;
+    width: 150px;
+}
+.numero2{
+    position: relative;
+    color: #86868d;
+    top: -2170px;
+    left: 50px;
+    width: 150px;
+}
+.numero3{
+    position: relative;
+    width: 150px;
+    color: #86868d;
+    top: -2310px;
+    left: 350px;
+}
+.numero4{
+    position: relative;
+    width: 150px;
+    color: #86868d;
+    top: -2300px;
+    left: 350px;
+}
+.call{
+    position: relative;
+    width: 0px;
+    height: 0px;
+    color:#3636FE;
+    top: -2090px;
+    left: 60px;
+}
+.videocall{
+    position: relative;
+    color:#3636FE;
+    top: -2190px;
+    left: 70px;
+    width: 111px;
+}
+.chat{
+    position: relative;
+    color:#3636FE;
+    top: -2170px;
+    left: 350px;
+    width: 30px;
+}
+.message{
+    position: relative;
+    color:#3636FE;
+    top: -2290px;
+    left: 350px;
+    width: 0px;
+}
+.mano{
+    position: relative;
+    background: #86868d;
+    width: 700px;
+    padding: 10px;
+    top: -2600px;
+    left: 500px;
+}
+.now{
+    position: relative;
+    width: 450px;
+    height: 0px;
+    top: -2800px;
+    color:#3636FE;
+}
+.finalS1{
+    position: relative;
+    color: #3636FE;
+    top: -2600px;
+    left: 0;
+    width: 0px;
+}
+.finalS2{
+    position: relative;
+    color: #3636FE;
+    top: -2670px;
+    left: 700px;
+    width: 0px;
+}
+.finalS3{
+    position: relative;
+    color: #3636FE;
+    top: -2750px;
+    left: 900px;
+    width: 0px;
+}
+.finalS4{
+    position: relative;
+    color: #3636FE;
+    top: -2830px;
+    left: 1100px;
+    width: 0px;
+}
+.finalT1{
+    position: relative;
+    color: #86868d;
+    top: -2600px;
+    left: 0;
+    width: 300px;
+    height: 0px;
+}
+.finalT2{
+    position: relative;
+    color: #86868d;
+    top: -2670px;
+    left: 700px;
+    width: 200px;
+    height: 0px;
+}
+
+.finalT3{
+    position: relative;
+    color: #86868d;
+    top: -2750px;
+    left: 900px;
+    width: 200px;
+    height: 0px;
+}
+.finalT4{
+    position: relative;
+    color: #86868d;
+    top: -2830px;
+    left: 1100px;
+    width: 200px;
+    height: 0px;
+}
+.final1{
+    position: relative;
+    color: #86868d;
+    top: -2750px;
+    left: 0;
+}
+.final2{
+    position: relative;
+    color: #86868d;
+    top: -2800px;
+    left: 700px;
+    width: 300px;
+}
+.final3{
+    position: relative;
+    color: #86868d;
+    top: -2850px;
+    left: 1000px;
+    width: 300px;
+}
+
